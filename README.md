@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnGale87&show_icons=true&theme=merko&count_private=true" />
+    <img align="center" src="https://github-readme-stats-ruby-eight-48.vercel.app/api?username=JohnGale87&show_icons=true&theme=merko&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnGale87&theme=merko&layout=compact" />
+    <img align="center" height="195px" src="https://github-readme-stats-ruby-eight-48.vercel.app/api/top-langs/?username=JohnGale87&theme=merko&layout=compact" />
 </a>
 
 <!--
